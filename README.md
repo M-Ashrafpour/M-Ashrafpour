@@ -1,6 +1,1 @@
-
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=M-Ashrafpour&show_icons=true&theme=gruvbox" />
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Ashrafpour&layout=compact" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F79100&center=true&vCenter=true&width=435&lines=Front-End+Web+Developer;Always+learning+new+things" />
